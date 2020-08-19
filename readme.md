@@ -65,13 +65,13 @@ For the Thread pool part:
 - Makefile
 
 ### Sources:
-[ CMPUT 379 Lab 4]()(https://eclass.srv.ualberta.ca/pluginfile.php/5376221/mod\_resource/content/2/379%20Lab%204.pdf) ( Lab TAs and/or Instructor, n.d.)
+[ CMPUT 379 Lab 4](https://eclass.srv.ualberta.ca/pluginfile.php/5376221/mod\_resource/content/2/379%20Lab%204.pdf) ( Lab TAs and/or Instructor, n.d.)
 
-[ CMPUT 379 Lab 5]()(https://eclass.srv.ualberta.ca/pluginfile.php/5382577/mod\_resource/content/2/379%20Lab%205.pdf) ( Lab TAs and/or Instructor, n.d.)
+[ CMPUT 379 Lab 5](https://eclass.srv.ualberta.ca/pluginfile.php/5382577/mod\_resource/content/2/379%20Lab%205.pdf) ( Lab TAs and/or Instructor, n.d.)
 
-[ CMPUT 379 Lab 6]()(https://eclass.srv.ualberta.ca/pluginfile.php/5397652/mod\_resource/content/1/379%20Lab%206.pdf) ( Lab TAs and/or Instructor, n.d.)
+[ CMPUT 379 Lab 6](https://eclass.srv.ualberta.ca/pluginfile.php/5397652/mod\_resource/content/1/379%20Lab%206.pdf) ( Lab TAs and/or Instructor, n.d.)
 
-[Test Cases and Scripts]()(https://eclass.srv.ualberta.ca/mod/forum/discuss.php?d=1243730) (Jihoon Og)
+[Test Cases and Scripts](https://eclass.srv.ualberta.ca/mod/forum/discuss.php?d=1243730) (Jihoon Og)
 
 [ C++ priority queue ]()(https://en.cppreference.com/w/cpp/container/priority\_queue) 
 
